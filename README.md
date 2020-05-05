@@ -23,7 +23,7 @@ Example: `disasm sourceFile.com destinationFile.txt`
 Can be easily compiled with:
 
 - Emu8086: Open source file and press run. Runs on modern systems
-- Tasm 1.4: Included in the source. Running `Tasm\Tasm disasm` form will compile, and `Tasm\tlink disasm` will link executable.
+- Tasm 1.4: Included in the source. Running `Tasm\Tasm disasm` command will compile source to obj, and `Tasm\tlink disasm` will link to create executable.
 
 Tasm and Tlink should be run from DOSBox as well.
 
